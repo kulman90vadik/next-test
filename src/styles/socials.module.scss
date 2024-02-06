@@ -1,0 +1,28 @@
+
+.socials {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.item {
+  margin-right: 15px;
+  padding: 20px;
+  background-color: teal;
+  border-radius: 10px;
+}
+
+.link {
+  width: 60px;
+  height: 60px;
+  padding: 5px;
+  display: flex;
+  color: white;
+  border-radius: 50%;
+  background-color: black;
+  i {
+    margin: auto;
+    font-size: 30px;
+  }
+}
+

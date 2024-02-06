@@ -1,0 +1,17 @@
+
+.posts {
+  list-style-type: none;
+  padding: 50px;
+  border-radius: 30px;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.link {
+  font-size: 19px;
+  &:hover {
+    color: tomato;
+  }
+}
